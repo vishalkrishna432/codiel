@@ -1,0 +1,25 @@
+{
+  "name": "com.vishal.k",
+  "version": "1.0.0",
+  "description": "this is my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalkrishna432/codiel.git"
+  },
+  "author": "vishal krishna verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalkrishna432/codiel/issues"
+  },
+  "homepage": "https://github.com/vishalkrishna432/codiel#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "nodemon": "^2.0.7"
+  }
+}
